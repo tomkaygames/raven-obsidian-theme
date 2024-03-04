@@ -1,3 +1,11 @@
+body {
+  --file-line-width: 560px;
+  --font-default: Courier;
+  --font-monospace-default: "Lucida Console";
+
+}
+
+
 /* 1. Colours! Overriding both themes */
 .theme-dark {
     --color-1: #FDF7CD;
